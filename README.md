@@ -1,8 +1,6 @@
 Adding Recorded Video:
 
-
-https://github.com/user-attachments/assets/5dbbdc30-946a-4c3c-832d-3284502d0336
-
+https://github.com/subalakshmi98/mock-register-page/blob/main/Screen%20Recording%202025-05-28%20at%2014.35.33.mov
 
 # sv
 
