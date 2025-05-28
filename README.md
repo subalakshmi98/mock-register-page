@@ -1,3 +1,9 @@
+Adding Recorded Video:
+
+
+https://github.com/user-attachments/assets/5dbbdc30-946a-4c3c-832d-3284502d0336
+
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
